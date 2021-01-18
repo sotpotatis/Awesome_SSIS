@@ -34,8 +34,11 @@ Utöver att kunna lägga filer på sin webbplats, så får man också åtkomst t
 ut "Tetris" i URL:en mot valfritt rumsnamn för ett annat rum.
 
 #### API:er
+
 * [Schema-API](https://api.ssis.nu/cal/?room=te20a) - Skolans öppna schema-API kan visa schemat för ett rum i skolan (t.ex. "Schack"), en skolklass (t.ex. "Te20A"), en lärare (t.ex. "REK"), samt event för hela skolan
 och vem som har ansvar för disken i pentryt. Allt som krävs är att specifiera room-parametern i URL:et som anger vilket schema du vill ha ut.
+
+* [Te20As läxor](https://20alse.ssis.nu/homework.json) - En lista i formattet JSON som tillhandahålls av 20alse och innehåller en lista av de aktuella läxorna för klassen Te20A i skolan.
 
 #### Open source-kod
 
@@ -118,6 +121,15 @@ och vem som har ansvar för disken i pentryt. Allt som krävs är att specifiera
 
 * [Intefanvetja](https://pepperonipingu.itch.io/intefanvetja) - Spel skapat av Pepperonipingu för tävlingen SSIS Game Jam 2020.
 
+#### Övrigt
+
+*Övriga projekt som elever har gjort.*
+
+* [Källkod till mc.ssis.nu](https://github.com/movitz-s/mc-ssis) - Källkod till hemsidan för info om skolans Minecraftserver (se nedan för länk).
+
+
+* [Källkod till secret santa](https://github.com/movitz-s/santa) - Källkod till hemsidan för skolans Secret Santa (se nedan för länk).
+
 ## Övriga hemsidor
 
 *Övriga hemsidor som har med skolan att göra.*
@@ -140,4 +152,20 @@ och vem som har ansvar för disken i pentryt. Allt som krävs är att specifiera
 
 #### Annat
 
-* [CTF]() - Länk till skolans CTF.
+* [CTF](https://ctf.ssis.nu) - Länk till skolans CTF.
+
+## Övrigt
+
+*Sådant som inte faller inom övriga kategorier men som fortfarande är värda att nämnas.*
+
+#### Nyhetsartiklar och dyl.
+
+*Då och då dyker skolan och/eller dess elever upp i pressen eller någon annan "nyhetsliknande" kanal. Här finns några länkar samlade.*
+
+* [World Community Grid](https://www.worldcommunitygrid.org/about_us/viewNewsArticle.do?articleId=601) - Artikel från World Community Grid om SSIS.
+
+* [SU: om partnerskap](https://dsv.su.se/samverkan/samarbeten-strategiska-partnerskap/stockholm-science-innovation-school) - Stockholms Universitet (SU) skriver om samarbetet med skolan.
+
+* [Kinnarps om SSIS](https://www.kinnarps.se/inspiration/stockholm-science-innovation-school/) - Inte programmeringsrelaterat, men värt att nämna då sidan tar upp hur skolan inretts och visar lite av den fantastiska miljön som man får programmera i!
+
+* [SSIS på FRA](https://www.gp.se/nyheter/sverige/fra-utbildar-nästa-generation-cyberförsvarare-1.15869545) - En artikel om elever från SSIS som besöker FRA (Försvarsmaktens Radioanstalt)
