@@ -7,7 +7,7 @@ The next part of this file and the rest of the project will be written in Swedis
 
 ## Se listan
 
-Listan finns (snart) tillgänglig som en webbplats på https://20alse.ssis.nu/awesome.
+Listan finns tillgänglig som en webbplats på https://20alse.ssis.nu/awesome.
 
 Listan är starkt inspirerad av [Awesome Home Assistant](https://www.awesome-ha.com/). 
 
