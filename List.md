@@ -11,14 +11,11 @@ som elever på skolan har skapat, för att visa upp vad som finns tillgängligt.
 
 * [Virtuella maskiner](https://vm.ssis.nu) - Möjligheten att köra en virtuell dator (virtuell maskin) på skolans hårdvara för att ha en dator tillgänglig som exempelvis kan köra
 skript eller en server. Möjlighet att installera flera system. Varje elev får som standard 2 CPU-kärnor, 10GB diskutrymme, och 1024MB minne.
-
 * [Egen webbplats](https://ssis.nu/?p=hem) - Möjligheten att få en egen webbplats på skolans subdomän ([ditt användarnamn].ssis.nu). Som standard får man 5GiB diskutrymme att utnyttja.
 Utöver att kunna lägga filer på sin webbplats, så får man också åtkomst till en MySQL-databas.
-
+* [Cisco Networking Academy](https://www.netacad.com) - Dator- och nätverkskurser från Cisco som används i undervisningen.
 * [Adobe Creative Cloud](https://www.adobe.com/se/creativecloud.html) - Åtkomst till hela Adobe Creative Cloud, som bland annat har en del programmeringsrelaterade resurser.
-
 * [Microsoft Azure Education](https://signup.azure.com/studentverification?offerType=3) - Åtkomst till Azure Education.
-
 * [GitHub Student Pack](https://education.github.com/pack) - Visserligen inte unikt för skolan, men värt att nämna ändå p.g.a. alla fördelar. De jag haft kontakt med blir automatiskt verfierade inom en timme om man använder sin `@stockholmscience.se`-mail.
 
 
@@ -80,16 +77,15 @@ och vem som har ansvar för disken i pentryt. Allt som krävs är att specifiera
 *Några exempel på vad man kan göra med SSIS "egen hemsida"-resurs. Här nere hittar du alltså blandade personliga elevhemsidor.*
 
 * [20alse](https://20alse.ssis.nu) - Personlig webbplats för 20alse. Innehåller länkar till egna projekt samt annat skojigt.
-
+* [19lujo](https://19lujo.ssis.nu) - Personlig webbplats för 19lujo, bl.a. med portfolio.
+* [19sasu](https://19sasu.ssis.nu/index.html) - Personlig webbplats för 19sasu, bl.a. med portfolio.
+* [19jove](https://19jove.ssis.nu/) - Personlig webbplats för 19jove. Innehåller en hel del olika grejer - WordPress-hemsida, ritprogram, etc.
 * [18oler](https://18oler.ssis.nu) - Personlig webbplats för 18oler. 
-
 * [18guha](https://18guha.ssis.nu) - Personlig webbplats för 18guha. Innehåller bl.a. filer för skolinlämningar och ett onlinespel.
-
 * [18gual](https://18gual.ssis.nu) - Personlig webbplats för 18gual. Visar upp skoluppgifter. 
-
 * [18gisc](https://18gisc.ssis.nu) - Personlig webbplats för 18gisc. Visar upp skoluppgifter. 
-
 * [18gisc](https://18toad.ssis.nu) - Personlig webbplats för 18toad. Visar upp skoluppgifter. 
+* [18osfr](https://18osfr.ssis.nu/) - Personlig webbplats for 18osfr. Visar upp skoluppgifter m.m.
 
 ##### Extra
 
@@ -152,7 +148,7 @@ och vem som har ansvar för disken i pentryt. Allt som krävs är att specifiera
 
 #### Annat
 
-* [CTF](https://ctf.ssis.nu) - Länk till skolans CTF.
+* [CTF](https://ctf.ssis.nu) - Länk till skolans CTF skapad av 18guha.
 
 ## Övrigt
 
